@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@octokit/rest": "^18.12.0",
-    "axios": "^1.10.0",
+    "axios": "^1.20.0",
     "bcrypt": "^6.0.0",
     "connect-redis": "^7.1.1",
     "cookie-parser": "^1.4.7",
@@ -9,10 +9,10 @@
     "dotenv": "^17.1.0",
     "express": "^5.1.0",
     "express-session": "^1.18.1",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.16.2",
-    "path-to-regexp": "^8.2.0",
+    "mongoose": "^8.24.7",
+    "path-to-regexp": "^9.0.0",
     "redis": "^4.7.1",
     "swagger-ui-express": "^5.0.1",
     "typhonjs-escomplex": "^0.1.0"
